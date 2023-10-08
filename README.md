@@ -1,7 +1,6 @@
 # Automated Invoice Process Management  <a href="https://www.linkedin.com/in/janvi-choudhary-68a199225/" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Janvi Choudhary" height="30" width="40" /></a>
 <p align="right">Learn.build {Data&DevOps} </p>
 <p>
-  Automated Invoice Process Management under Learn.build {Data &amp; Devops Project} <br>
   In a rapidly evolving business landscape, the need for efficiency and scalability is paramount, especially when it comes to managing invoices. Automated Invoice Processing is a vital solution for growing businesses seeking to streamline their financial operations. This summary provides an overview of the key aspects and benefits of implementing Automated Invoice Processing
 
 ## Problem Statement
@@ -11,12 +10,14 @@ Key components of this solution include:
 <ul>
   <li>Invoice Collection: Invoices from various sources, such as suppliers, are collected electronically, eliminating the need for paper-based invoices.</li>
   <li>Data Extraction: Advanced Optical Character Recognition (OCR) and machine learning techniques are used to extract crucial invoice data, including invoice number, due date, and total amount.</li>
+  <li>Validation and Verification: Automated validation checks ensure the accuracy and compliance of extracted data with predefined business rules and regulations.</li>
+  <li>Data Entry and Integration: Validated data is seamlessly integrated into accounting or Enterprise Resource Planning (ERP) systems, reducing manual data entry.</li>
 </ul>
 
 
 
-Validation and Verification: Automated validation checks ensure the accuracy and compliance of extracted data with predefined business rules and regulations.
-Data Entry and Integration: Validated data is seamlessly integrated into accounting or Enterprise Resource Planning (ERP) systems, reducing manual data entry.
+
+
 Approval Workflow: Invoices follow automated approval workflows, ensuring timely approval from relevant departments or personnel.
 Benefits: Implementing Automated Invoice Processing yields several significant benefits for growing businesses:
 Efficiency: Automation reduces the time and effort required for invoice processing, leading to faster payment cycles and improved cash flow.
