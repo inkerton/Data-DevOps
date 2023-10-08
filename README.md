@@ -12,20 +12,30 @@ Key components of this solution include:
   <li>Data Extraction: Advanced Optical Character Recognition (OCR) and machine learning techniques are used to extract crucial invoice data, including invoice number, due date, and total amount.</li>
   <li>Validation and Verification: Automated validation checks ensure the accuracy and compliance of extracted data with predefined business rules and regulations.</li>
   <li>Data Entry and Integration: Validated data is seamlessly integrated into accounting or Enterprise Resource Planning (ERP) systems, reducing manual data entry.</li>
+  <li>Approval Workflow: Invoices follow automated approval workflows, ensuring timely approval from relevant departments or personnel.</li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li>
+    
+  </li>
 </ul>
 
 
 
 
 
-Approval Workflow: Invoices follow automated approval workflows, ensuring timely approval from relevant departments or personnel.
-Benefits: Implementing Automated Invoice Processing yields several significant benefits for growing businesses:
-Efficiency: Automation reduces the time and effort required for invoice processing, leading to faster payment cycles and improved cash flow.
-Accuracy: The use of AI and OCR technology minimizes data entry errors and ensures the accuracy of financial records.
-Cost Savings: Reduced manual labour and fewer errors result in lower operational costs.
-Visibility and Control: Real-time visibility into the invoice processing status allows businesses to monitor and manage financial operations effectively.
-Scalability: The solution scales seamlessly with business growth, accommodating an increasing volume of invoices.
-Compliance: Automated validation checks help businesses maintain compliance with financial regulations and internal policies.
+
+**Benefits:** Implementing Automated Invoice Processing yields several significant benefits for growing businesses:
+**Efficiency:** Automation reduces the time and effort required for invoice processing, leading to faster payment cycles and improved cash flow.
+**Accuracy:** The use of AI and OCR technology minimizes data entry errors and ensures the accuracy of financial records.
+**Cost Savings:** Reduced manual labour and fewer errors result in lower operational costs.
+**Visibility and Control:** Real-time visibility into the invoice processing status allows businesses to monitor and manage financial operations effectively.
+**Scalability:** The solution scales seamlessly with business growth, accommodating an increasing volume of invoices.
+**Compliance:** Automated validation checks help businesses maintain compliance with financial regulations and internal policies.
 
 ## Azure Services being used in this Project:
 Azure Logic Apps: Azure Logic Apps can be used to orchestrate the end-to-end invoice processing workflow. You can set up logic apps to automate tasks such as invoice collection, data extraction, validation, and approval workflows.
