@@ -5,8 +5,11 @@
 
 ## Problem Statement
 As a business grows, the volume of invoices it receives can become overwhelming. Manually processing invoices is time-consuming, error-prone, and often leads to delays in payments and increased operational costs. To address these challenges, businesses need a scalable and efficient solution.<br>
+
 Solution Overview: Automated Invoice Processing leverages technology and automation to streamline the end-to-end invoice management workflow.<br>
+
 Key components of this solution include:
+
 <ol>
   <li><b>Invoice Collection: </b> Invoices from various sources, such as suppliers, are collected electronically, eliminating the need for paper-based invoices.</li>
   <li><b>Data Extraction: </b> Advanced Optical Character Recognition (OCR) and machine learning techniques are used to extract crucial invoice data, including invoice number, due date, and total amount.</li>
