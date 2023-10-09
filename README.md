@@ -28,12 +28,12 @@ Key components of this solution include:
 
 
 
-**Efficiency:** Automation reduces the time and effort required for invoice processing, leading to faster payment cycles and improved cash flow.
-**Accuracy:** The use of AI and OCR technology minimizes data entry errors and ensures the accuracy of financial records.
-**Cost Savings:** Reduced manual labour and fewer errors result in lower operational costs.
-**Visibility and Control:** Real-time visibility into the invoice processing status allows businesses to monitor and manage financial operations effectively.
-**Scalability:** The solution scales seamlessly with business growth, accommodating an increasing volume of invoices.
-**Compliance:** Automated validation checks help businesses maintain compliance with financial regulations and internal policies.
+Efficiency: Automation reduces the time and effort required for invoice processing, leading to faster payment cycles and improved cash flow.
+Accuracy: The use of AI and OCR technology minimizes data entry errors and ensures the accuracy of financial records.
+Cost Savings: Reduced manual labour and fewer errors result in lower operational costs.
+Visibility and Control: Real-time visibility into the invoice processing status allows businesses to monitor and manage financial operations effectively.
+Scalability: The solution scales seamlessly with business growth, accommodating an increasing volume of invoices.
+Compliance: Automated validation checks help businesses maintain compliance with financial regulations and internal policies.
 
 ## Azure Services being used in this Project:
 Azure Logic Apps: Azure Logic Apps can be used to orchestrate the end-to-end invoice processing workflow. You can set up logic apps to automate tasks such as invoice collection, data extraction, validation, and approval workflows.
