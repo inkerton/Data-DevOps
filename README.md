@@ -14,26 +14,13 @@ Key components of this solution include:
   <li>Data Entry and Integration: Validated data is seamlessly integrated into accounting or Enterprise Resource Planning (ERP) systems, reducing manual data entry.</li>
   <li>Approval Workflow: Invoices follow automated approval workflows, ensuring timely approval from relevant departments or personnel.</li>
   <li><b>Benefits:</b> Implementing Automated Invoice Processing yields several significant benefits for growing businesses:</li>
-  <li><b></b></li>
-  <li><b></b></li>
-  <li><b></b></li>
-  <li><b></b></li>
-  <li><b></b></li>
-  <li><b> </b></li>
-</ol>
-
-
-
-
-
-
-
-Efficiency: Automation reduces the time and effort required for invoice processing, leading to faster payment cycles and improved cash flow.
-Accuracy: The use of AI and OCR technology minimizes data entry errors and ensures the accuracy of financial records.
-Cost Savings: Reduced manual labour and fewer errors result in lower operational costs.
-Visibility and Control: Real-time visibility into the invoice processing status allows businesses to monitor and manage financial operations effectively.
-Scalability: The solution scales seamlessly with business growth, accommodating an increasing volume of invoices.
-Compliance: Automated validation checks help businesses maintain compliance with financial regulations and internal policies.
+  <li><b>Efficiency:</b>Automation reduces the time and effort required for invoice processing, leading to faster payment cycles and improved cash flow.</li>
+  <li><b>Accuracy:</b>The use of AI and OCR technology minimizes data entry errors and ensures the accuracy of financial records.</li>
+  <li><b>Cost Savings:</b>Reduced manual labour and fewer errors result in lower operational costs.</li>
+  <li><b>Visibility and Control:</b>Real-time visibility into the invoice processing status allows businesses to monitor and manage financial operations effectively.</li>
+  <li><b>Scalability:</b>The solution scales seamlessly with business growth, accommodating an increasing volume of invoices.</li>
+  <li><b>Compliance: </b>Automated validation checks help businesses maintain compliance with financial regulations and internal policies.</li>
+</ol> 
 
 ## Azure Services being used in this Project:
 Azure Logic Apps: Azure Logic Apps can be used to orchestrate the end-to-end invoice processing workflow. You can set up logic apps to automate tasks such as invoice collection, data extraction, validation, and approval workflows.
