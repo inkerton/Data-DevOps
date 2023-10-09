@@ -8,17 +8,17 @@ As a business grows, the volume of invoices it receives can become overwhelming.
 Solution Overview: Automated Invoice Processing leverages technology and automation to streamline the end-to-end invoice management workflow.<br>
 Key components of this solution include:
 <ol>
-  <li><b>Invoice Collection:</b> Invoices from various sources, such as suppliers, are collected electronically, eliminating the need for paper-based invoices.</li>
-  <li><b>Data Extraction:</b> Advanced Optical Character Recognition (OCR) and machine learning techniques are used to extract crucial invoice data, including invoice number, due date, and total amount.</li>
-  <li><b>Validation and Verification:</b> Automated validation checks ensure the accuracy and compliance of extracted data with predefined business rules and regulations.</li>
-  <li><b>Data Entry and Integration:</b> Validated data is seamlessly integrated into accounting or Enterprise Resource Planning (ERP) systems, reducing manual data entry.</li>
-  <li><b>Approval Workflow:</b> Invoices follow automated approval workflows, ensuring timely approval from relevant departments or personnel.</li>
-  <li><b>Benefits:</b> Implementing Automated Invoice Processing yields several significant benefits for growing businesses:</li>
-  <li><b>Efficiency:</b>Automation reduces the time and effort required for invoice processing, leading to faster payment cycles and improved cash flow.</li>
-  <li><b>Accuracy:</b>The use of AI and OCR technology minimizes data entry errors and ensures the accuracy of financial records.</li>
-  <li><b>Cost Savings:</b>Reduced manual labour and fewer errors result in lower operational costs.</li>
-  <li><b>Visibility and Control:</b>Real-time visibility into the invoice processing status allows businesses to monitor and manage financial operations effectively.</li>
-  <li><b>Scalability:</b>The solution scales seamlessly with business growth, accommodating an increasing volume of invoices.</li>
+  <li><b>Invoice Collection: </b> Invoices from various sources, such as suppliers, are collected electronically, eliminating the need for paper-based invoices.</li>
+  <li><b>Data Extraction: </b> Advanced Optical Character Recognition (OCR) and machine learning techniques are used to extract crucial invoice data, including invoice number, due date, and total amount.</li>
+  <li><b>Validation and Verification: </b> Automated validation checks ensure the accuracy and compliance of extracted data with predefined business rules and regulations.</li>
+  <li><b>Data Entry and Integration: </b> Validated data is seamlessly integrated into accounting or Enterprise Resource Planning (ERP) systems, reducing manual data entry.</li>
+  <li><b>Approval Workflow: </b> Invoices follow automated approval workflows, ensuring timely approval from relevant departments or personnel.</li>
+  <li><b>Benefits: </b> Implementing Automated Invoice Processing yields several significant benefits for growing businesses:</li>
+  <li><b>Efficiency: </b>Automation reduces the time and effort required for invoice processing, leading to faster payment cycles and improved cash flow.</li>
+  <li><b>Accuracy: </b>The use of AI and OCR technology minimizes data entry errors and ensures the accuracy of financial records.</li>
+  <li><b>Cost Savings: </b>Reduced manual labour and fewer errors result in lower operational costs.</li>
+  <li><b>Visibility and Control: </b>Real-time visibility into the invoice processing status allows businesses to monitor and manage financial operations effectively.</li>
+  <li><b>Scalability: </b>The solution scales seamlessly with business growth, accommodating an increasing volume of invoices.</li>
   <li><b>Compliance: </b>Automated validation checks help businesses maintain compliance with financial regulations and internal policies.</li>
 </ol> 
 
