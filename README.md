@@ -26,7 +26,11 @@ Key components of this solution include:
 </ol> 
 
 ## Azure Services being used in this Project:
-Azure Logic Apps: Azure Logic Apps can be used to orchestrate the end-to-end invoice processing workflow. You can set up logic apps to automate tasks such as invoice collection, data extraction, validation, and approval workflows.
+
+<ol>
+  <li><b>Azure Logic Apps:</b></li>
+</ol>
+ Azure Logic Apps can be used to orchestrate the end-to-end invoice processing workflow. You can set up logic apps to automate tasks such as invoice collection, data extraction, validation, and approval workflows.
 Azure Form Recognizer: Azure Form Recognizer is a powerful service for extracting structured data from invoices. It uses machine learning models to recognize and extract key information from documents, making it an ideal choice for automating data extraction from invoices.
 Azure Functions: Azure Functions can be employed to create serverless, event-driven functions that handle specific tasks within the workflow. For example, you can use Azure Functions to trigger data validation and integration processes.
 Azure Storage: Azure Storage, including Azure Blob Storage, can serve as a secure repository for storing incoming invoices in their original format. It ensures data availability and durability.
