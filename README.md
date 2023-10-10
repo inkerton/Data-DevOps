@@ -25,6 +25,7 @@ Key components of this solution include:
   <li><b>Compliance: </b>Automated validation checks help businesses maintain compliance with financial regulations and internal policies.</li>
 </ol> 
 
+
 ## Azure Services being used in this Project:
 
 <ol>
