@@ -1,7 +1,7 @@
 # Automated Invoice Process Management  <a href="https://www.linkedin.com/in/janvi-choudhary-68a199225/" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Janvi Choudhary" height="30" width="40" /></a>
 <p align="right">Learn.build {Data&DevOps} </p>
 
-  In a rapidly evolving business landscape, the need for efficiency and scalability is paramount, especially when it comes to managing invoices. Automated Invoice Processing is a vital solution for growing businesses seeking to streamline their financial operations. This summary provides an overview of the key aspects and benefits of implementing Automated Invoice Processing
+  In a rapidly evolving business landscape, the need for efficiency and scalability is paramount, especially when it comes to managing invoices. Automated Invoice Processing is a vital solution for growing businesses seeking to streamline their financial operations. This summary provides an overview of the key aspects and benefits of implementing Automated Invoice Processing.
 
 ## Problem Statement
 As a business grows, the volume of invoices it receives can become overwhelming. Manually processing invoices is time-consuming, error-prone, and often leads to delays in payments and increased operational costs. To address these challenges, businesses need a scalable and efficient solution.<br>
